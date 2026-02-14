@@ -1,0 +1,9 @@
+# Notes personnelles
+notes_perso/
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers de configuration VS Code (optionnel mais propre)
+.vscode/
