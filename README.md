@@ -3,6 +3,8 @@
 Bienvenue dans l'**Herborithèque**, un projet Open Source dédié à la création d'une bibliothèque numérique personnelle de plantes médicinales. 
 
 > **Note :** Ce logiciel est un outil de gestion de connaissances. Il est livré "vide" pour que chaque utilisateur puisse constituer sa propre base de savoir.
+> 
+>___PROJET EN COURS DE CONSTRUCTION___
 
 ---
 
