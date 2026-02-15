@@ -1,0 +1,12 @@
+[package]
+name = "herboritheque"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Pour transformer le texte en structures de données
+serde = { version = "1.0.228", features = ["derive"] }
+# Pour comprendre spécifiquement le format YAML de ton template
+yaml_serde = "0.10.3"
+# Pour manipuler les chemins de fichiers proprement
+pathdiff = "0.2.3"
